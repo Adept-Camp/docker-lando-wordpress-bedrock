@@ -23,7 +23,7 @@ This installation guide already assumes that you have both Docker and Lando inst
 ### Download the repo
 First off your going to need to download the repository localy. Open up your terminal and Head to whichever folder you would like the project to be created.
 ```
-git clone https://github.com/sam-g-roberts/docker-lando-wordpress-bedrock.git
+git clone https://github.com/adept-camp/docker-lando-wordpress-bedrock.git
 cd docker-lando-wordpress-bedrock
 ```
 
